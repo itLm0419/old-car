@@ -1,0 +1,323 @@
+.pub {
+  width: 35px;
+  height: 35px;
+  display: block;
+  background-size: 100%;
+  margin: 10px auto 3px;
+}
+.pub2 {
+  height: 50px;
+  width: 148px;
+}
+.pub3 {
+  float: left;
+}
+.pub4 {
+  padding: 14px 0 0 11px;
+}
+.pub5 {
+  width: 79px;
+  height: 42px;
+}
+.pub6 {
+  height: 21px;
+  padding-left: 15px;
+  color: #333;
+  line-height: 21px;
+  font-size: 12px;
+  margin: 5px 0;
+}
+.pub7 {
+  height: 22px;
+  width: 79px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+.pub8 {
+  color: #333;
+  fot-size: 12px;
+  padding-top: 55px ;
+}
+.f-fon {
+  color: #76787a;
+  font-size: 15px;
+}
+.f-detai {
+  color: #c8c8c8;
+  font-size: 11px;
+}
+.box {
+  width: 320px;
+  margin: 20px auto;
+  background: #f2f2f2;
+}
+.box .box-car {
+  border-bottom: 1px solid #eee;
+  background: #fff;
+}
+.box .box-car .car {
+  width: 80px;
+  height: 68px;
+  float: left;
+  text-align: center;
+  color: #333;
+  font-size: 11px;
+  border-right: 1px solid #ddd;
+  box-sizing: border-box;
+}
+.box .box-car .car .icon1 {
+  background: url(../images/ico1.png);
+  width: 35px;
+  height: 35px;
+  display: block;
+  background-size: 100%;
+  margin: 10px auto 3px;
+}
+.box .box-car .car .icon2 {
+  background: url(../images/ico2.png);
+  width: 35px;
+  height: 35px;
+  display: block;
+  background-size: 100%;
+  margin: 10px auto 3px;
+}
+.box .box-car .car .icon3 {
+  background: url(../images/ico3.png);
+  width: 35px;
+  height: 35px;
+  display: block;
+  background-size: 100%;
+  margin: 10px auto 3px;
+}
+.box .box-car .car .icon4 {
+  background: url(../images/ico4.png);
+  width: 35px;
+  height: 35px;
+  display: block;
+  background-size: 100%;
+  margin: 10px auto 3px;
+}
+.box .box-car .c-last {
+  border-right: none;
+}
+.box .show-car {
+  margin: 10px 0;
+  border-top: 1px solid #ebebeb;
+  border-bottom: 1px solid #ebebeb;
+}
+.box .show-car .l-car {
+  height: 101px;
+  width: 148px;
+  border-right: 2px solid #f4f4f4;
+  background: #fff;
+  float: left;
+  padding: 14px 0 0 11px;
+}
+.box .show-car .l-car .fresh-font {
+  color: #76787a;
+  font-size: 15px;
+}
+.box .show-car .l-car .f-detail {
+  color: #c8c8c8;
+  font-size: 11px;
+}
+.box .show-car .r-car {
+  float: left;
+  padding: 14px 0 0 11px;
+  background: #fff;
+}
+.box .show-car .r-car .fresh {
+  border-bottom: 1px solid #f4f4f4;
+  height: 50px;
+  width: 148px;
+}
+.box .show-car .r-car .fresh .fresh-font {
+  color: #76787a;
+  font-size: 15px;
+  float: left;
+}
+.box .show-car .r-car .fresh .s-car {
+  margin-left: 13px;
+  float: left;
+}
+.box .show-car .r-car .fresh .f-detail {
+  color: #c8c8c8;
+  font-size: 11px;
+}
+.box .show-car .r-car .spare {
+  height: 50px;
+  width: 148px;
+}
+.box .show-car .r-car .spare .s-car {
+  margin-left: 9px;
+  float: left;
+}
+.box .show-car .r-car .spare .fresh-font {
+  float: left;
+}
+.box .show-car .r-car .spare .fresh-font .fresh-font {
+  color: #76787a;
+  font-size: 15px;
+  float: left;
+}
+.box .show-car .r-car .spare .fresh-font .f-detail {
+  color: #c8c8c8;
+  font-size: 11px;
+}
+.box .box-price {
+  padding-top: 5px;
+  background: #fff;
+}
+.box .box-price .pr-title {
+  background: url(../images/icon_03.png) no-repeat left center;
+  height: 21px;
+  padding-left: 15px;
+  color: #333;
+  line-height: 21px;
+  font-size: 12px;
+  margin: 5px 0;
+}
+.box .box-price .car-modle {
+  background: url(../images/icon_08.png) no-repeat left center;
+}
+.box .box-price .price {
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+.box .box-price .price .li-last {
+  border-right: none;
+}
+.box .box-price .price li {
+  float: left;
+  border-right: 1px solid #ddd;
+}
+.box .box-price .price li .d-fir {
+  border-bottom: 1px solid #ddd;
+}
+.box .box-price .price li div {
+  width: 79px;
+  height: 42px;
+  text-align: center;
+  line-height: 42px;
+}
+.box .box-famous {
+  padding-top: 5px;
+  background: #fff;
+}
+.box .box-famous .pr-title {
+  background: url(../images/icon_06.png) no-repeat left center;
+  height: 21px;
+  padding-left: 15px;
+  color: #333;
+  line-height: 21px;
+  font-size: 12px;
+  margin: 5px 0;
+  padding-top: 10px;
+}
+.box .box-famous .price {
+  border-top: 1px solid #ddd;
+}
+.box .box-famous .price .car-3 {
+  background: url(../images/ico_02.jpg) no-repeat center 10px;
+}
+.box .box-famous .price .car-4 {
+  background: url(../images/car-4.png) no-repeat center 10px;
+}
+.box .box-famous .price .car-5 {
+  background: url(../images/car-1.png) no-repeat center 10px;
+}
+.box .box-famous .price .car-6 {
+  background: url(../images/car-6.png) no-repeat center 10px;
+}
+.box .box-famous .price .car-7 {
+  background: url(../images/car-3.png) no-repeat center 10px;
+}
+.box .box-famous .price .car-8 {
+  background: url(../images/car-5.png) no-repeat center 10px;
+}
+.box .box-famous .price .car-9 {
+  background: url(../images/car-2.png) no-repeat center 10px;
+}
+.box .box-famous .price .car-10 {
+  background: url(../images/car-7.png) no-repeat center 10px;
+}
+.box .box-famous .price .li-last {
+  border-right: none;
+}
+.box .box-famous .price li {
+  float: left;
+  border-right: 1px solid #ddd;
+}
+.box .box-famous .price li .d-fir {
+  border-bottom: 1px solid #ddd;
+}
+.box .box-famous .price li div {
+  height: 22px;
+  width: 79px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  color: #333;
+  fot-size: 12px;
+  padding-top: 55px ;
+}
+.box .joinus {
+  background: #fff;
+}
+.box .joinus li {
+  float: left;
+}
+.box .joinus p {
+  color: #333;
+  font-size: 12px;
+}
+.box .joinus span {
+  color: #bababa;
+  font-size: 11px;
+}
+.box .joinus .shop {
+  padding: 15px 10px 0 12px;
+}
+.box .joinus .shop .num-red {
+  color: #ff5500;
+}
+.box .joinus .position-img {
+  padding-right: 12px;
+  border-right: 2px solid #f4f4f4;
+}
+.box .joinus .join {
+  padding: 15px 53px 0 11px;
+  background: url(../images/ico_03.gif) no-repeat right 18px;
+}
+.box .footer {
+  background: #fff;
+}
+.box .footer p {
+  margin-top: 15px;
+  text-align: center;
+  color: #999;
+  font-size: 11px;
+}
+.box .footer p span {
+  color: #ff5500;
+}
+.box .footer .que {
+  padding-top: 19px;
+}
+.box .footer .que .com {
+  margin-left: 68px;
+}
+.box .footer .que li {
+  float: left;
+  padding: 1px 10px 2px;
+}
+.box .footer .que .add-bor {
+  border-right: 2px solid #a8c8ef;
+}
+.clearfix {
+  zoom: 1;
+}
+.clearfix:after {
+  display: block;
+  content: '';
+  clear: both;
+}
